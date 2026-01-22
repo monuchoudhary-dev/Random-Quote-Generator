@@ -1,0 +1,41 @@
+body{
+    display: flex;
+    background-color: black;
+    color: wheat;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+.container{
+     text-align: center;
+     align-items: center;
+     display: flex;
+     justify-content: center;
+     
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
